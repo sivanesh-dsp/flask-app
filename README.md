@@ -5,3 +5,6 @@ Assignment Instruction:
 3. Configure the necessary settings for the Azure Web App, including any required environment variables.
 4. Deploy the application to the Azure Web App.
 5. Set up a ci/cd using GitHub actions.
+
+
+Edit: Selected
